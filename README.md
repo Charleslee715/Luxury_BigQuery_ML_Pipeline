@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Project: Luxury BigQuery ML Pipeline
 This project is a Dockerized end-to-end data engineering and machine learning solution designed to predict luxury asset prices. It automates the entire lifecycle—from cloud data ingestion to real-time model serving.
 # Key Techniques:
